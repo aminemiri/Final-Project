@@ -1,0 +1,12 @@
+.logos
+{
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
+body{
+    background-color: rgb(59, 52, 52) ;
+}
